@@ -210,4 +210,4 @@ class AutoRiaScraper:
 if __name__ == '__main__':
     scraper = AutoRiaScraper(START_URL)
     scraper.scrape()
-    scraper.process_and_store(get_db())
+    scraper.process_and_store(next(get_db()))
