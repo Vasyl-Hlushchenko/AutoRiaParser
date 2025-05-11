@@ -30,7 +30,6 @@ AutoRiaScraper/
 ### Клонування репозиторію:
 ```
 git clone https://github.com/Vasyl-Hlushchenko/AutoRiaParser
-cd AutoRiaScraper
 ```
 
 ### Запустіть додаток у Docker:
